@@ -30,3 +30,9 @@ predict the label for all the individual frame which we can annotate on the fram
 and output it.
 
 
+# input 
+Input video here
+https://www.youtube.com/watch?v=--0kKuQu4Gs
+
+# Output
+![](https://github.com/TalhaSheikh-dev/Action-Recognition-using-ResNet-Kinetics/blob/main/image/predict.PNG)
